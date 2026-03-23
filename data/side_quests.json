@@ -1,0 +1,6 @@
+[
+  {"id":"desk_reset","name":"Reset Your Desk","type":"side","stages":1,"xp":10,"rarity":"common","prompt":"Clean surface, clean mind."},
+  {"id":"budget_check","name":"Budget Check-In","type":"side","stages":1,"xp":14,"rarity":"uncommon","prompt":"Look at the numbers."},
+  {"id":"read_pages","name":"Read 10 Pages","type":"side","stages":1,"xp":9,"rarity":"common","prompt":"Slow progress still counts."},
+  {"id":"deep_clean","name":"Deep Clean One Zone","type":"side","stages":2,"xp_per_stage":6,"xp":5,"rarity":"rare","prompt":"Pick one neglected area."}
+]

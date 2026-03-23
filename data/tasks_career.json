@@ -1,0 +1,6 @@
+[
+  {"id":"team_update","name":"Post Team Update","type":"career","stages":1,"xp":15,"frequency":"daily","prompt":"Post an update to your team"},
+  {"id":"progress_summary","name":"Summarise Progress","type":"career","stages":1,"xp":18,"frequency":"daily","prompt":"Summarise your progress"},
+  {"id":"mentor_ping","name":"Message a Mentor or Peer","type":"career","stages":1,"xp":12,"frequency":"alternate","prompt":"Keep your network warm."},
+  {"id":"ship_artifact","name":"Ship a Visible Artifact","type":"career","stages":2,"xp_per_stage":8,"xp":6,"frequency":"weekly","prompt":"Create visible proof of progress."}
+]

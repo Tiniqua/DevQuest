@@ -1,0 +1,14 @@
+{
+  "xp": 0,
+  "level": 0,
+  "health": 100,
+  "weight": 0,
+  "stats": {
+    "visibility": 0,
+    "discipline": 0,
+    "health": 0
+  },
+  "unclaimed_rewards": 0,
+  "claimed_unlocks": [],
+  "spent_rewards": []
+}
