@@ -1,6 +1,30 @@
 [
   {"name":"Coffee Break","type":"instant","cost_xp":25},
+  {"name":"Snack Break","type":"instant","cost_xp":20},
+  {"name":"YouTube Time","type":"instant","cost_xp":30},
+  {"name":"Scroll Guilt-Free","type":"instant","cost_xp":20},
+  {"name":"Short Walk","type":"instant","cost_xp":15},
+  {"name":"Music Break","type":"instant","cost_xp":15},
   {"name":"Gaming Session","type":"instant","cost_xp":50},
-  {"name":"Buy Item","type":"unlock","level":2},
-  {"name":"Takeaway","type":"milestone","level":5}
+  {"name":"1 Hour Gaming","type":"instant","cost_xp":60},
+  {"name":"Watch Episode","type":"instant","cost_xp":40},
+  {"name":"Take a Nap","type":"instant","cost_xp":35},
+
+  {"name":"Buy Small Item","type":"unlock","level":2},
+  {"name":"Order Coffee","type":"unlock","level":2},
+  {"name":"Extra Gaming Time","type":"unlock","level":3},
+  {"name":"Skip a Chore","type":"unlock","level":3},
+  {"name":"Watch a Movie","type":"unlock","level":4},
+  {"name":"Take Evening Off","type":"unlock","level":4},
+
+  {"name":"Takeaway","type":"milestone","level":5},
+  {"name":"Buy Something Nice","type":"milestone","level":6},
+  {"name":"Day Off Chill","type":"milestone","level":7},
+  {"name":"New Game Purchase","type":"milestone","level":8},
+  {"name":"Go Out Meal","type":"milestone","level":9},
+  {"name":"Upgrade Setup","type":"milestone","level":10},
+
+  {"name":"Lazy Morning","type":"milestone","level":6},
+  {"name":"No Rules Evening","type":"milestone","level":7},
+  {"name":"Treat Yourself","type":"milestone","level":8}
 ]

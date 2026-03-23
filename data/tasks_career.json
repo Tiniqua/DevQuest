@@ -1,6 +1,36 @@
 [
-  {"id":"team_update","name":"Post Team Update","type":"career","stages":1,"xp":15,"frequency":"daily","prompt":"Post an update to your team"},
-  {"id":"progress_summary","name":"Summarise Progress","type":"career","stages":1,"xp":18,"frequency":"daily","prompt":"Summarise your progress"},
+  {"id":"team_update","name":"Post Team Update","type":"career","stages":1,"xp":15,"frequency":"daily","prompt":"Post an update to your team."},
+  {"id":"progress_summary","name":"Summarise Progress","type":"career","stages":1,"xp":18,"frequency":"daily","prompt":"Summarise your progress clearly."},
+  {"id":"work_visibility","name":"Make Work Visible","type":"career","stages":1,"xp":18,"frequency":"daily","prompt":"Share what you’re working on."},
+  {"id":"close_loop","name":"Close the Loop","type":"career","stages":1,"xp":20,"frequency":"daily","prompt":"Notify relevant people when something is done."},
+  {"id":"call_out_progress","name":"Call Out Progress","type":"career","stages":1,"xp":15,"frequency":"daily","prompt":"Mention progress in chat or meetings."},
+
   {"id":"mentor_ping","name":"Message a Mentor or Peer","type":"career","stages":1,"xp":12,"frequency":"alternate","prompt":"Keep your network warm."},
-  {"id":"ship_artifact","name":"Ship a Visible Artifact","type":"career","stages":2,"xp_per_stage":8,"xp":6,"frequency":"weekly","prompt":"Create visible proof of progress."}
+  {"id":"ask_question","name":"Ask a Good Question","type":"career","stages":1,"xp":14,"frequency":"daily","prompt":"Ask something that moves work forward."},
+  {"id":"answer_question","name":"Answer an Open Question","type":"career","stages":1,"xp":16,"frequency":"daily","prompt":"Help unblock someone else."},
+  {"id":"start_discussion","name":"Start a Discussion","type":"career","stages":1,"xp":18,"frequency":"alternate","prompt":"Raise something worth talking about."},
+
+  {"id":"identify_blocker","name":"Identify a Blocker","type":"career","stages":1,"xp":18,"frequency":"daily","prompt":"Call out something slowing progress."},
+  {"id":"resolve_blocker","name":"Resolve or Escalate Blocker","type":"career","stages":2,"xp_per_stage":10,"xp":8,"frequency":"alternate","prompt":"Take ownership of a problem."},
+
+  {"id":"document_work","name":"Document Your Work","type":"career","stages":1,"xp":18,"frequency":"alternate","prompt":"Write something others can use."},
+  {"id":"improve_process","name":"Improve a Process","type":"career","stages":2,"xp_per_stage":10,"xp":8,"frequency":"weekly","prompt":"Make something more efficient."},
+
+  {"id":"review_code","name":"Review Someone's Work","type":"career","stages":1,"xp":16,"frequency":"alternate","prompt":"Provide useful feedback."},
+  {"id":"request_review","name":"Request a Review","type":"career","stages":1,"xp":14,"frequency":"alternate","prompt":"Get eyes on your work early."},
+
+  {"id":"share_learning","name":"Share Something Learned","type":"career","stages":1,"xp":18,"frequency":"alternate","prompt":"Teach the team something."},
+  {"id":"tech_visibility","name":"Highlight Technical Insight","type":"career","stages":1,"xp":20,"frequency":"alternate","prompt":"Surface something interesting or useful."},
+
+  {"id":"plan_next_steps","name":"Define Next Steps","type":"career","stages":1,"xp":16,"frequency":"daily","prompt":"Clarify what happens next."},
+  {"id":"own_task","name":"Take Ownership of Task","type":"career","stages":2,"xp_per_stage":9,"xp":7,"frequency":"daily","prompt":"Drive something to completion."},
+
+  {"id":"follow_up","name":"Follow Up","type":"career","stages":1,"xp":15,"frequency":"daily","prompt":"Check on something previously discussed."},
+  {"id":"sync_team","name":"Align With Team","type":"career","stages":1,"xp":16,"frequency":"alternate","prompt":"Make sure everyone is on the same page."},
+
+  {"id":"proactive_update","name":"Proactive Update","type":"career","stages":1,"xp":18,"frequency":"daily","prompt":"Update before being asked."},
+  {"id":"surface_risk","name":"Surface a Risk","type":"career","stages":1,"xp":20,"frequency":"alternate","prompt":"Call out something that could go wrong."},
+
+  {"id":"ship_artifact","name":"Ship a Visible Artifact","type":"career","stages":2,"xp_per_stage":8,"xp":6,"frequency":"weekly","prompt":"Create visible proof of progress."},
+  {"id":"demo_work","name":"Demo Your Work","type":"career","stages":1,"xp":22,"frequency":"weekly","prompt":"Show what you’ve built."}
 ]

@@ -2,9 +2,34 @@
   {"id":"brush_teeth","name":"Brush Teeth","type":"health_required","stages":2,"xp_per_stage":3,"xp":4,"damage_on_fail":10,"prompt":"Morning and night."},
   {"id":"water_goal","name":"Drink Water","type":"health_required","stages":3,"xp_per_stage":4,"xp":3,"damage_on_fail":10,"duration":120,"prompt":"Drink water (1/3)"},
   {"id":"sleep_setup","name":"Set Sleep Plan","type":"health_required","stages":1,"xp":8,"damage_on_fail":5,"prompt":"Protect tonight's recovery."},
-  {"id":"walk_break","name":"Take a 10-minute Walk","type":"health_optional","stages":1,"xp":10,"prompt":"Reset your brain and posture."},
-  {"id":"meal_prep","name":"Prepare a Healthy Meal","type":"health_optional","stages":1,"xp":12,"prompt":"Make the easy choice easy."},
-  {"id":"stretch","name":"Stretch Session","type":"health_optional","stages":1,"xp":9,"prompt":"Loosen up your back and shoulders."},
+
   {"id":"screen_break","name":"Screen Break Reset","type":"health_optional","stages":2,"xp_per_stage":4,"xp":3,"prompt":"Look away and breathe."},
-  {"id":"meditate","name":"Two Minutes of Stillness","type":"health_optional","stages":1,"xp":8,"prompt":"Lower the noise floor."}
+  {"id":"eye_focus","name":"Eye Focus Reset","type":"health_optional","stages":2,"xp_per_stage":4,"xp":3,"prompt":"Focus on something far away."},
+  {"id":"blink_reset","name":"Blink Reset","type":"health_optional","stages":1,"xp":6,"prompt":"Rest your eyes."},
+
+  {"id":"stretch","name":"Stretch Session","type":"health_optional","stages":1,"xp":9,"prompt":"Loosen up your back and shoulders."},
+  {"id":"neck_stretch","name":"Neck Stretch","type":"health_optional","stages":1,"xp":7,"prompt":"Release neck tension."},
+  {"id":"shoulder_stretch","name":"Shoulder Stretch","type":"health_optional","stages":1,"xp":7,"prompt":"Open up your posture."},
+  {"id":"wrist_stretch","name":"Wrist Stretch","type":"health_optional","stages":1,"xp":6,"prompt":"Prevent strain."},
+
+  {"id":"stand_up","name":"Stand Up Break","type":"health_optional","stages":2,"xp_per_stage":4,"xp":3,"prompt":"Get off the chair briefly."},
+  {"id":"posture_reset","name":"Posture Reset","type":"health_optional","stages":2,"xp_per_stage":4,"xp":3,"prompt":"Sit properly again."},
+  {"id":"walk_break","name":"Take a 10-minute Walk","type":"health_optional","stages":1,"xp":10,"prompt":"Reset your brain and posture."},
+  {"id":"short_walk","name":"Short Walk","type":"health_optional","stages":1,"xp":8,"prompt":"Even 5 minutes helps."},
+
+  {"id":"breathing","name":"Breathing Reset","type":"health_optional","stages":1,"xp":7,"prompt":"Slow your breathing."},
+  {"id":"meditate","name":"Two Minutes of Stillness","type":"health_optional","stages":1,"xp":8,"prompt":"Lower the noise floor."},
+  {"id":"mental_reset","name":"Mental Reset","type":"health_optional","stages":1,"xp":8,"prompt":"Pause and reset your focus."},
+
+  {"id":"hydration_extra","name":"Extra Glass of Water","type":"health_optional","stages":1,"xp":6,"prompt":"Stay ahead on hydration."},
+  {"id":"healthy_snack","name":"Healthy Snack","type":"health_optional","stages":1,"xp":8,"prompt":"Fuel properly."},
+  {"id":"meal_prep","name":"Prepare a Healthy Meal","type":"health_optional","stages":1,"xp":12,"prompt":"Make the easy choice easy."},
+
+  {"id":"step_outside","name":"Step Outside","type":"health_optional","stages":1,"xp":7,"prompt":"Get fresh air."},
+  {"id":"sunlight","name":"Get Sunlight","type":"health_optional","stages":1,"xp":7,"prompt":"Natural light helps."},
+
+  {"id":"desk_posture_check","name":"Desk Setup Check","type":"health_optional","stages":1,"xp":7,"prompt":"Adjust chair, screen, posture."},
+  {"id":"screen_distance","name":"Screen Distance Check","type":"health_optional","stages":1,"xp":6,"prompt":"Protect your eyes."},
+
+  {"id":"micro_movement","name":"Micro Movement","type":"health_optional","stages":2,"xp_per_stage":3,"xp":3,"prompt":"Move a little, often."}
 ]

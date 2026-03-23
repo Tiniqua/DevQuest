@@ -1,6 +1,30 @@
 [
   {"id":"desk_reset","name":"Reset Your Desk","type":"side","stages":1,"xp":10,"rarity":"common","prompt":"Clean surface, clean mind."},
+  {"id":"quick_tidy","name":"Quick Room Tidy","type":"side","stages":1,"xp":10,"rarity":"common","prompt":"10 minutes, no overthinking."},
+  {"id":"wash_dishes","name":"Wash Dishes","type":"side","stages":1,"xp":12,"rarity":"common","prompt":"Clear the backlog."},
+  {"id":"empty_bins","name":"Empty Bins","type":"side","stages":1,"xp":10,"rarity":"common","prompt":"Remove clutter."},
+  {"id":"wipe_surfaces","name":"Wipe Surfaces","type":"side","stages":1,"xp":10,"rarity":"common","prompt":"Reset your environment."},
+  {"id":"laundry_load","name":"Start Laundry","type":"side","stages":1,"xp":12,"rarity":"common","prompt":"Future you will thank you."},
+  {"id":"fold_clothes","name":"Fold Clothes","type":"side","stages":1,"xp":12,"rarity":"common","prompt":"Finish the job."},
+
+  {"id":"declutter_drawer","name":"Declutter One Drawer","type":"side","stages":1,"xp":14,"rarity":"uncommon","prompt":"One small win."},
+  {"id":"organise_files","name":"Organise Digital Files","type":"side","stages":1,"xp":14,"rarity":"uncommon","prompt":"Clean your digital space."},
   {"id":"budget_check","name":"Budget Check-In","type":"side","stages":1,"xp":14,"rarity":"uncommon","prompt":"Look at the numbers."},
+  {"id":"plan_week","name":"Plan Your Week","type":"side","stages":1,"xp":15,"rarity":"uncommon","prompt":"Reduce chaos early."},
+  {"id":"review_goals","name":"Review Goals","type":"side","stages":1,"xp":15,"rarity":"uncommon","prompt":"Are you on track?"},
   {"id":"read_pages","name":"Read 10 Pages","type":"side","stages":1,"xp":9,"rarity":"common","prompt":"Slow progress still counts."},
-  {"id":"deep_clean","name":"Deep Clean One Zone","type":"side","stages":2,"xp_per_stage":6,"xp":5,"rarity":"rare","prompt":"Pick one neglected area."}
+  {"id":"learn_10min","name":"Learn for 10 Minutes","type":"side","stages":1,"xp":12,"rarity":"common","prompt":"Small knowledge gains."},
+  {"id":"journal_entry","name":"Write a Journal Entry","type":"side","stages":1,"xp":12,"rarity":"common","prompt":"Clear your thoughts."},
+  {"id":"email_cleanup","name":"Clean Up Inbox","type":"side","stages":1,"xp":14,"rarity":"uncommon","prompt":"Reduce noise."},
+  {"id":"unsubscribe","name":"Unsubscribe from Emails","type":"side","stages":1,"xp":12,"rarity":"common","prompt":"Less clutter, less stress."},
+
+  {"id":"deep_clean","name":"Deep Clean One Zone","type":"side","stages":2,"xp_per_stage":6,"xp":5,"rarity":"rare","prompt":"Pick one neglected area."},
+  {"id":"rearrange_space","name":"Rearrange a Space","type":"side","stages":2,"xp_per_stage":7,"xp":6,"rarity":"rare","prompt":"Change your environment."},
+  {"id":"fix_something","name":"Fix Something Broken","type":"side","stages":2,"xp_per_stage":7,"xp":6,"rarity":"rare","prompt":"Close the loop."},
+  {"id":"declutter_area","name":"Declutter a Full Area","type":"side","stages":2,"xp_per_stage":7,"xp":6,"rarity":"rare","prompt":"Remove what you don’t need."},
+
+  {"id":"water_plants","name":"Water Plants","type":"side","stages":1,"xp":8,"rarity":"common","prompt":"Take care of something living."},
+  {"id":"clean_screen","name":"Clean Screens","type":"side","stages":1,"xp":8,"rarity":"common","prompt":"See clearly again."},
+  {"id":"prep_food","name":"Prep Simple Food","type":"side","stages":1,"xp":12,"rarity":"common","prompt":"Set yourself up."},
+  {"id":"sort_clothes","name":"Sort Clothes","type":"side","stages":1,"xp":12,"rarity":"common","prompt":"Keep what matters."}
 ]
