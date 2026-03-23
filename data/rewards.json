@@ -1,0 +1,6 @@
+[
+  {"name":"Coffee Break","type":"instant","cost_xp":25},
+  {"name":"Gaming Session","type":"instant","cost_xp":50},
+  {"name":"Buy Item","type":"unlock","level":2},
+  {"name":"Takeaway","type":"milestone","level":5}
+]

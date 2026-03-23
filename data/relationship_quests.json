@@ -1,0 +1,4 @@
+[
+  {"id":"check_in","name":"Check In With Someone","type":"relationship","stages":1,"xp":12,"prompt":"Send a thoughtful message."},
+  {"id":"gratitude","name":"Share Appreciation","type":"relationship","stages":1,"xp":10,"prompt":"Say thank you clearly."}
+]

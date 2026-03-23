@@ -1,0 +1,5 @@
+[
+  {"id":"exercise_daily","name":"Exercise","type":"exercise","stages":1,"xp":15,"damage_on_fail":15,"prompt":"Move your body today."},
+  {"id":"bodyweight","name":"Bodyweight Circuit","type":"exercise","stages":3,"xp_per_stage":5,"xp":5,"damage_on_fail":15,"prompt":"Three rounds gets it done."},
+  {"id":"mobility","name":"Mobility Routine","type":"exercise","stages":2,"xp_per_stage":6,"xp":4,"damage_on_fail":15,"prompt":"Earn future comfort."}
+]
